@@ -3,4 +3,4 @@ This repository is created for the anonymous review of ICA submission "The Dark 
 Increase the Political Polarization on Twitter/X". It includes:
 1. Classifiers for multidimensional political incivility classification [Joblib file]
 2. Script for multidimensional political incivility classification [Python file]
-3. Supplimentary Information (SI) [PDF file]
+3. Supplementary Information (SI) [PDF file]
